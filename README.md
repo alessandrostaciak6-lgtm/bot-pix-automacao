@@ -1,7 +1,10 @@
 # bot-pix-automacao
-discord-pix-bot/
-├── bot.py
-├── gmail_reader.py
-├── config.py
-├── pagamentos.db
-└── requirements.txt
+# Discord PIX Bot
+
+Bot para Discord que verifica notificações de PIX recebidas por e-mail e envia confirmações automáticas em tópicos do servidor.
+
+## Objetivo
+
+- Ler notificações do Gmail.
+- Identificar pagamentos PIX.
+- Confirmar pagamentos automaticamente no Discord.
